@@ -31,6 +31,10 @@
               </p>
             </a>
           </li>
+          <li class="nav-item">
+                    <a class="nav-link" href="cadastrados.php">
+                    <span>Produtos cadastrados</span></a>
+          </li>
 
         </ul>
       </nav>
