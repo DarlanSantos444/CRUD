@@ -1,5 +1,5 @@
 <footer class="main-footer">
-    <strong>Copyright &copy; 2020 <i class="fab fa-github"></i> <a href="http://adminlte.io">GitHub - Wellington Feitoza</a>.</strong>
+    <strong>Copyright &copy; 2020 <i class="fab fa-github"></i> <a href="https://github.com/DarlanSantos444/CRUD">GitHub - Darlan Santos</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 3.0.5
